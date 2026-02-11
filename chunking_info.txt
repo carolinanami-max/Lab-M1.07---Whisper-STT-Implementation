@@ -1,0 +1,1 @@
+Original file: audio/CA138clip.mp3\nDuration: 86.2 seconds\nChunk size: 30 seconds\nNumber of chunks: 3\n\nFor longer files (>5 minutes), chunking helps with:\n1. API file size limits (25MB)\n2. Better error handling\n3. Parallel processing\n

@@ -1,0 +1,14 @@
+TRANSCRIPT EXPORT
+================
+
+Lab Steps Completed:
+1. Basic transcription ✓
+2. With prompt vs without prompt ✓
+3. Audio chunking strategy ✓
+4. Timestamp extraction ✓
+5. Export formats ✓
+
+Files in transcripts/ folder:
+basic_transcription.json
+final_export.txt
+simple_test.txt

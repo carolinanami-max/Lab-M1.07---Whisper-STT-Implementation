@@ -1,0 +1,15 @@
+=== Lab Steps 4 & 5 Results ===
+
+Step 4 (WITH prompt): 1083 characters
+Step 5 (WITHOUT prompt): 1095 characters
+
+Difference: 12 characters
+
+The prompt slightly changed the transcription length.
+This is expected - prompts can improve accuracy for technical terms.
+
+Both transcriptions saved in transcripts/ folder:
+- with_prompt.txt
+- without_prompt.txt
+
+=== Ready for Step 6: Audio Chunking ===
